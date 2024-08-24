@@ -18,11 +18,11 @@
 <p>To run this project locally, follow these steps:</p>
 <ol>
     <li><strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/yourusername/tictactoe.git
-cd tictactoe</code></pre>
+        <pre><code>git clone https://github.com/alishbannoor2/Tic-Tac-Toe.git
+cd Tic-Tac-Toe</code></pre>
     </li>
     <li><strong>Compile the code:</strong>
-        <pre><code>g++ -o TicTacToe main.cpp TicTacToe.cpp</code></pre>
+        <pre><code>g++ -o TicTacToe Tic-Tac-Toe.cpp ClientCode.cpp</code></pre>
     </li>
     <li><strong>Run the game:</strong>
         <pre><code>./TicTacToe</code></pre>
