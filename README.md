@@ -1,11 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <body>
 
 <h1>Tic-Tac-Toe in C++</h1>
-<img src="">
-<h2>Overview</h2>
-<p>This project is a console-based implementation of the classic Tic-Tac-Toe game, developed in C++. It allows two players to compete against each other in a fun and interactive way. The game features a simple user interface and includes essential game mechanics such as turn-taking, win detection, and draw conditions.</p>
+<p align="center">
+    <img height="250" src="https://github.com/alishbannoor2/Tic-Tac-Toe/blob/018b9722696d18da0b10793cd2dde335da279088/tictactoe.png" alt="Tic Tac Toe">
+</p>
+<p align="center">This project is a console-based implementation of the classic Tic-Tac-Toe game, developed in C++. It allows two players to compete against each other in a fun and interactive way. The game features a simple user interface and includes essential game mechanics such as turn-taking, win detection, and draw conditions.</p>
 
 <h2>Features</h2>
 <ul>
