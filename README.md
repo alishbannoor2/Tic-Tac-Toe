@@ -21,13 +21,17 @@
         <pre><code>git clone https://github.com/alishbannoor2/Tic-Tac-Toe.git
 cd Tic-Tac-Toe</code></pre>
     </li>
-    <li><strong>Compile the code:</strong>
-        <pre><code>g++ -o TicTacToe Tic-Tac-Toe.cpp ClientCode.cpp</code></pre>
+    <li><strong>Create a new project in Visual Studio:</strong>
+        <p>Open Visual Studio and create a new C++ project. Add the existing source files (<code>Tic-Tac-Toe.cpp</code>, <code>ClientCode.cpp</code>, and <code>Tic-Tac-Toe.h</code>) to the project.</p>
+    </li>
+    <li><strong>Build the project:</strong>
+        <p>In Visual Studio, go to <strong>Build</strong> in the menu and select <strong>Build Solution</strong> (or press <code>Ctrl + Shift + B</code>).</p>
     </li>
     <li><strong>Run the game:</strong>
-        <pre><code>./TicTacToe</code></pre>
+        <p>After building, you can run the program by clicking the <strong>Start</strong> button (or press <code>F5</code>).</p>
     </li>
 </ol>
+
 
 <h2>How to Play</h2>
 <ol>
